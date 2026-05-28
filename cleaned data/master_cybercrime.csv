@@ -1,0 +1,58 @@
+year,state,city,category,cases,population_lakhs_2011,crime_rate_2024,chargesheeting_rate_2024
+2022,Gujarat,Ahmedabad,Cybercrime,261.0,63.5,6.2,48.6
+2022,Karnataka,Bengaluru,Cybercrime,9940.0,85.0,206.6,24.2
+2022,Tamil Nadu,Chennai,Cybercrime,271.0,87.0,21.6,41.2
+2022,Tamil Nadu,Coimbatore,Cybercrime,68.0,21.5,13.9,17.9
+2022,Delhi,Delhi City,Cybercrime,685.0,163.1,2.5,77.8
+2022,Uttar Pradesh,Ghaziabad,Cybercrime,626.0,23.6,20.3,21.3
+2022,Telangana,Hyderabad,Cybercrime,4436.0,77.5,51.7,12.9
+2022,Madhya Pradesh,Indore,Cybercrime,47.0,21.7,2.6,82.4
+2022,Rajasthan,Jaipur,Cybercrime,310.0,30.7,6.4,33.2
+2022,Uttar Pradesh,Kanpur,Cybercrime,541.0,29.2,15.4,84.6
+2022,Kerala,Kochi,Cybercrime,96.0,21.2,9.5,55.4
+2022,West Bengal,Kolkata,Cybercrime,75.0,141.1,0.1,95.6
+2022,Kerala,Kozhikode,Cybercrime,45.0,20.3,5.2,39.5
+2022,Uttar Pradesh,Lucknow,Cybercrime,1134.0,29.0,44.5,22.8
+2022,Maharashtra,Mumbai,Cybercrime,4724.0,184.1,26.8,30.8
+2022,Maharashtra,Nagpur,Cybercrime,211.0,25.0,10.1,79.6
+2022,Bihar,Patna,Cybercrime,222.0,20.5,31.4,100.0
+2022,Maharashtra,Pune,Cybercrime,357.0,50.5,29.8,26.6
+2022,Gujarat,Surat,Cybercrime,371.0,45.8,5.8,66.7
+2023,Gujarat,Ahmedabad,Cybercrime,246.0,63.5,6.2,48.6
+2023,Karnataka,Bengaluru,Cybercrime,17631.0,85.0,206.6,24.2
+2023,Tamil Nadu,Chennai,Cybercrime,1352.0,87.0,21.6,41.2
+2023,Tamil Nadu,Coimbatore,Cybercrime,207.0,21.5,13.9,17.9
+2023,Delhi,Delhi City,Cybercrime,407.0,163.1,2.5,77.8
+2023,Uttar Pradesh,Ghaziabad,Cybercrime,880.0,23.6,20.3,21.3
+2023,Telangana,Hyderabad,Cybercrime,4855.0,77.5,51.7,12.9
+2023,Madhya Pradesh,Indore,Cybercrime,86.0,21.7,2.6,82.4
+2023,Rajasthan,Jaipur,Cybercrime,551.0,30.7,6.4,33.2
+2023,Uttar Pradesh,Kanpur,Cybercrime,481.0,29.2,15.4,84.6
+2023,Kerala,Kochi,Cybercrime,112.0,21.2,9.5,55.4
+2023,West Bengal,Kolkata,Cybercrime,21.0,141.1,0.1,95.6
+2023,Kerala,Kozhikode,Cybercrime,114.0,20.3,5.2,39.5
+2023,Uttar Pradesh,Lucknow,Cybercrime,1453.0,29.0,44.5,22.8
+2023,Maharashtra,Mumbai,Cybercrime,4131.0,184.1,26.8,30.8
+2023,Maharashtra,Nagpur,Cybercrime,309.0,25.0,10.1,79.6
+2023,Bihar,Patna,Cybercrime,235.0,20.5,31.4,100.0
+2023,Maharashtra,Pune,Cybercrime,487.0,50.5,29.8,26.6
+2023,Gujarat,Surat,Cybercrime,397.0,45.8,5.8,66.7
+2024,Gujarat,Ahmedabad,Cybercrime,396.0,63.5,6.2,48.6
+2024,Karnataka,Bengaluru,Cybercrime,17561.0,85.0,206.6,24.2
+2024,Tamil Nadu,Chennai,Cybercrime,1882.0,87.0,21.6,41.2
+2024,Tamil Nadu,Coimbatore,Cybercrime,300.0,21.5,13.9,17.9
+2024,Delhi,Delhi City,Cybercrime,404.0,163.1,2.5,77.8
+2024,Uttar Pradesh,Ghaziabad,Cybercrime,479.0,23.6,20.3,21.3
+2024,Telangana,Hyderabad,Cybercrime,4009.0,77.5,51.7,12.9
+2024,Madhya Pradesh,Indore,Cybercrime,57.0,21.7,2.6,82.4
+2024,Rajasthan,Jaipur,Cybercrime,197.0,30.7,6.4,33.2
+2024,Uttar Pradesh,Kanpur,Cybercrime,449.0,29.2,15.4,84.6
+2024,Kerala,Kochi,Cybercrime,201.0,21.2,9.5,55.4
+2024,West Bengal,Kolkata,Cybercrime,21.0,141.1,0.1,95.6
+2024,Kerala,Kozhikode,Cybercrime,106.0,20.3,5.2,39.5
+2024,Uttar Pradesh,Lucknow,Cybercrime,1292.0,29.0,44.5,22.8
+2024,Maharashtra,Mumbai,Cybercrime,4939.0,184.1,26.8,30.8
+2024,Maharashtra,Nagpur,Cybercrime,253.0,25.0,10.1,79.6
+2024,Bihar,Patna,Cybercrime,642.0,20.5,31.4,100.0
+2024,Maharashtra,Pune,Cybercrime,1504.0,50.5,29.8,26.6
+2024,Gujarat,Surat,Cybercrime,266.0,45.8,5.8,66.7

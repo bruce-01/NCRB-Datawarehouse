@@ -1,0 +1,58 @@
+year,state,city,category,cases,population_lakhs_2011,crime_rate_2024,chargesheeting_rate_2024
+2022,Gujarat,Ahmedabad,IPC and BNS Crimes,22872,63.5,359.0,85.1
+2022,Karnataka,Bengaluru,IPC and BNS Crimes,28666,85.0,408.5,63.4
+2022,Tamil Nadu,Chennai,IPC and BNS Crimes,15086,87.0,181.3,71.6
+2022,Tamil Nadu,Coimbatore,IPC and BNS Crimes,4542,21.5,225.2,74.0
+2022,Delhi,Delhi City,IPC and BNS Crimes,298988,163.1,1688.0,31.9
+2022,Uttar Pradesh,Ghaziabad,IPC and BNS Crimes,9860,23.6,379.9,52.3
+2022,Telangana,Hyderabad,IPC and BNS Crimes,20668,77.5,348.8,56.9
+2022,Madhya Pradesh,Indore,IPC and BNS Crimes,16636,21.7,561.6,63.4
+2022,Rajasthan,Jaipur,IPC and BNS Crimes,28171,30.7,902.8,37.4
+2022,Uttar Pradesh,Kanpur,IPC and BNS Crimes,11721,29.2,422.9,77.3
+2022,Kerala,Kochi,IPC and BNS Crimes,13273,21.2,474.2,92.9
+2022,West Bengal,Kolkata,IPC and BNS Crimes,11038,141.1,84.1,95.3
+2022,Kerala,Kozhikode,IPC and BNS Crimes,8074,20.3,507.6,93.5
+2022,Uttar Pradesh,Lucknow,IPC and BNS Crimes,15115,29.0,498.7,69.3
+2022,Maharashtra,Mumbai,IPC and BNS Crimes,69289,184.1,279.3,74.7
+2022,Maharashtra,Nagpur,IPC and BNS Crimes,12889,25.0,632.0,69.8
+2022,Bihar,Patna,IPC and BNS Crimes,12522,20.5,609.1,69.9
+2022,Maharashtra,Pune,IPC and BNS Crimes,11074,50.5,271.4,76.7
+2022,Gujarat,Surat,IPC and BNS Crimes,9872,45.8,245.0,87.7
+2023,Gujarat,Ahmedabad,IPC and BNS Crimes,29238,63.5,359.0,85.1
+2023,Karnataka,Bengaluru,IPC and BNS Crimes,41637,85.0,408.5,63.4
+2023,Tamil Nadu,Chennai,IPC and BNS Crimes,15698,87.0,181.3,71.6
+2023,Tamil Nadu,Coimbatore,IPC and BNS Crimes,4697,21.5,225.2,74.0
+2023,Delhi,Delhi City,IPC and BNS Crimes,323549,163.1,1688.0,31.9
+2023,Uttar Pradesh,Ghaziabad,IPC and BNS Crimes,9227,23.6,379.9,52.3
+2023,Telangana,Hyderabad,IPC and BNS Crimes,21774,77.5,348.8,56.9
+2023,Madhya Pradesh,Indore,IPC and BNS Crimes,18126,21.7,561.6,63.4
+2023,Rajasthan,Jaipur,IPC and BNS Crimes,29971,30.7,902.8,37.4
+2023,Uttar Pradesh,Kanpur,IPC and BNS Crimes,10652,29.2,422.9,77.3
+2023,Kerala,Kochi,IPC and BNS Crimes,24729,21.2,474.2,92.9
+2023,West Bengal,Kolkata,IPC and BNS Crimes,10943,141.1,84.1,95.3
+2023,Kerala,Kozhikode,IPC and BNS Crimes,10605,20.3,507.6,93.5
+2023,Uttar Pradesh,Lucknow,IPC and BNS Crimes,16023,29.0,498.7,69.3
+2023,Maharashtra,Mumbai,IPC and BNS Crimes,44873,184.1,279.3,74.7
+2023,Maharashtra,Nagpur,IPC and BNS Crimes,17297,25.0,632.0,69.8
+2023,Bihar,Patna,IPC and BNS Crimes,14317,20.5,609.1,69.9
+2023,Maharashtra,Pune,IPC and BNS Crimes,12542,50.5,271.4,76.7
+2023,Gujarat,Surat,IPC and BNS Crimes,11453,45.8,245.0,87.7
+2024,Gujarat,Ahmedabad,IPC and BNS Crimes,22806,63.5,359.0,85.1
+2024,Karnataka,Bengaluru,IPC and BNS Crimes,34715,85.0,408.5,63.4
+2024,Tamil Nadu,Chennai,IPC and BNS Crimes,15765,87.0,181.3,71.6
+2024,Tamil Nadu,Coimbatore,IPC and BNS Crimes,4844,21.5,225.2,74.0
+2024,Delhi,Delhi City,IPC and BNS Crimes,275402,163.1,1688.0,31.9
+2024,Uttar Pradesh,Ghaziabad,IPC and BNS Crimes,8963,23.6,379.9,52.3
+2024,Telangana,Hyderabad,IPC and BNS Crimes,27031,77.5,348.8,56.9
+2024,Madhya Pradesh,Indore,IPC and BNS Crimes,12169,21.7,561.6,63.4
+2024,Rajasthan,Jaipur,IPC and BNS Crimes,27743,30.7,902.8,37.4
+2024,Uttar Pradesh,Kanpur,IPC and BNS Crimes,12350,29.2,422.9,77.3
+2024,Kerala,Kochi,IPC and BNS Crimes,10043,21.2,474.2,92.9
+2024,West Bengal,Kolkata,IPC and BNS Crimes,11864,141.1,84.1,95.3
+2024,Kerala,Kozhikode,IPC and BNS Crimes,10310,20.3,507.6,93.5
+2024,Uttar Pradesh,Lucknow,IPC and BNS Crimes,14467,29.0,498.7,69.3
+2024,Maharashtra,Mumbai,IPC and BNS Crimes,51428,184.1,279.3,74.7
+2024,Maharashtra,Nagpur,IPC and BNS Crimes,15787,25.0,632.0,69.8
+2024,Bihar,Patna,IPC and BNS Crimes,12468,20.5,609.1,69.9
+2024,Maharashtra,Pune,IPC and BNS Crimes,13708,50.5,271.4,76.7
+2024,Gujarat,Surat,IPC and BNS Crimes,11233,45.8,245.0,87.7

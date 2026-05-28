@@ -1,0 +1,58 @@
+year,state,city,category,cases,population_lakhs_2011,crime_rate_2024,chargesheeting_rate_2024
+2022,Gujarat,Ahmedabad,SLL Crimes,30973,63.5,416.3,99.7
+2022,Karnataka,Bengaluru,SLL Crimes,17521,85.0,268.7,40.7
+2022,Tamil Nadu,Chennai,SLL Crimes,24052,87.0,345.0,99.6
+2022,Tamil Nadu,Coimbatore,SLL Crimes,4708,21.5,144.0,91.4
+2022,Delhi,Delhi City,SLL Crimes,19567,163.1,136.5,98.9
+2022,Uttar Pradesh,Ghaziabad,SLL Crimes,3347,23.6,66.4,69.1
+2022,Telangana,Hyderabad,SLL Crimes,2515,77.5,42.3,75.9
+2022,Madhya Pradesh,Indore,SLL Crimes,10491,21.7,239.5,99.8
+2022,Rajasthan,Jaipur,SLL Crimes,8790,30.7,299.5,94.4
+2022,Uttar Pradesh,Kanpur,SLL Crimes,3539,29.2,83.1,95.0
+2022,Kerala,Kochi,SLL Crimes,15493,21.2,541.7,99.6
+2022,West Bengal,Kolkata,SLL Crimes,1175,141.1,9.6,95.9
+2022,Kerala,Kozhikode,SLL Crimes,3515,20.3,268.0,99.2
+2022,Uttar Pradesh,Lucknow,SLL Crimes,3943,29.0,584.4,61.9
+2022,Maharashtra,Mumbai,SLL Crimes,19809,184.1,101.2,99.4
+2022,Maharashtra,Nagpur,SLL Crimes,6278,25.0,244.6,99.1
+2022,Bihar,Patna,SLL Crimes,8871,20.5,232.0,100.0
+2022,Maharashtra,Pune,SLL Crimes,3099,50.5,96.1,97.2
+2022,Gujarat,Surat,SLL Crimes,45428,45.8,1132.7,99.9
+2023,Gujarat,Ahmedabad,SLL Crimes,24073,63.5,416.3,99.7
+2023,Karnataka,Bengaluru,SLL Crimes,26883,85.0,268.7,40.7
+2023,Tamil Nadu,Chennai,SLL Crimes,20804,87.0,345.0,99.6
+2023,Tamil Nadu,Coimbatore,SLL Crimes,4115,21.5,144.0,91.4
+2023,Delhi,Delhi City,SLL Crimes,19934,163.1,136.5,98.9
+2023,Uttar Pradesh,Ghaziabad,SLL Crimes,2157,23.6,66.4,69.1
+2023,Telangana,Hyderabad,SLL Crimes,3975,77.5,42.3,75.9
+2023,Madhya Pradesh,Indore,SLL Crimes,5949,21.7,239.5,99.8
+2023,Rajasthan,Jaipur,SLL Crimes,9266,30.7,299.5,94.4
+2023,Uttar Pradesh,Kanpur,SLL Crimes,2462,29.2,83.1,95.0
+2023,Kerala,Kochi,SLL Crimes,42887,21.2,541.7,99.6
+2023,West Bengal,Kolkata,SLL Crimes,900,141.1,9.6,95.9
+2023,Kerala,Kozhikode,SLL Crimes,7397,20.3,268.0,99.2
+2023,Uttar Pradesh,Lucknow,SLL Crimes,13449,29.0,584.4,61.9
+2023,Maharashtra,Mumbai,SLL Crimes,20568,184.1,101.2,99.4
+2023,Maharashtra,Nagpur,SLL Crimes,6739,25.0,244.6,99.1
+2023,Bihar,Patna,SLL Crimes,9213,20.5,232.0,100.0
+2023,Maharashtra,Pune,SLL Crimes,4480,50.5,96.1,97.2
+2023,Gujarat,Surat,SLL Crimes,51689,45.8,1132.7,99.9
+2024,Gujarat,Ahmedabad,SLL Crimes,26444,63.5,416.3,99.7
+2024,Karnataka,Bengaluru,SLL Crimes,22840,85.0,268.7,40.7
+2024,Tamil Nadu,Chennai,SLL Crimes,30001,87.0,345.0,99.6
+2024,Tamil Nadu,Coimbatore,SLL Crimes,3098,21.5,144.0,91.4
+2024,Delhi,Delhi City,SLL Crimes,22264,163.1,136.5,98.9
+2024,Uttar Pradesh,Ghaziabad,SLL Crimes,1567,23.6,66.4,69.1
+2024,Telangana,Hyderabad,SLL Crimes,3278,77.5,42.3,75.9
+2024,Madhya Pradesh,Indore,SLL Crimes,5191,21.7,239.5,99.8
+2024,Rajasthan,Jaipur,SLL Crimes,9203,30.7,299.5,94.4
+2024,Uttar Pradesh,Kanpur,SLL Crimes,2426,29.2,83.1,95.0
+2024,Kerala,Kochi,SLL Crimes,11473,21.2,541.7,99.6
+2024,West Bengal,Kolkata,SLL Crimes,1355,141.1,9.6,95.9
+2024,Kerala,Kozhikode,SLL Crimes,5444,20.3,268.0,99.2
+2024,Uttar Pradesh,Lucknow,SLL Crimes,16954,29.0,584.4,61.9
+2024,Maharashtra,Mumbai,SLL Crimes,18626,184.1,101.2,99.4
+2024,Maharashtra,Nagpur,SLL Crimes,6111,25.0,244.6,99.1
+2024,Bihar,Patna,SLL Crimes,4749,20.5,232.0,100.0
+2024,Maharashtra,Pune,SLL Crimes,4852,50.5,96.1,97.2
+2024,Gujarat,Surat,SLL Crimes,51933,45.8,1132.7,99.9

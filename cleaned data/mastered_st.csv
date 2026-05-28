@@ -1,0 +1,58 @@
+year,state,city,category,cases,chargesheeting_rate_2024
+2022,Gujarat,Ahmedabad,ST,18.0,91.7
+2022,Karnataka,Bengaluru,ST,16.0,55
+2022,Tamil Nadu,Chennai,ST,0.0,0
+2022,Tamil Nadu,Coimbatore,ST,1.0,-
+2022,Delhi,Delhi City,ST,0.0,100
+2022,Uttar Pradesh,Ghaziabad,ST,0.0,-
+2022,Telangana,Hyderabad,ST,31.0,76.9
+2022,Madhya Pradesh,Indore,ST,9.0,100
+2022,Rajasthan,Jaipur,ST,214.0,23
+2022,Uttar Pradesh,Kanpur,ST,0.0,-
+2022,Kerala,Kochi,ST,5.0,83.3
+2022,West Bengal,Kolkata,ST,2.0,-
+2022,Kerala,Kozhikode,ST,3.0,100
+2022,Uttar Pradesh,Lucknow,ST,0.0,-
+2022,Maharashtra,Mumbai,ST,2.0,50
+2022,Maharashtra,Nagpur,ST,12.0,100
+2022,Bihar,Patna,ST,0.0,-
+2022,Maharashtra,Pune,ST,0.0,100
+2022,Gujarat,Surat,ST,16.0,94.1
+2023,Gujarat,Ahmedabad,ST,18.0,91.7
+2023,Karnataka,Bengaluru,ST,16.0,55
+2023,Tamil Nadu,Chennai,ST,0.0,0
+2023,Tamil Nadu,Coimbatore,ST,0.0,-
+2023,Delhi,Delhi City,ST,2.0,100
+2023,Uttar Pradesh,Ghaziabad,ST,0.0,-
+2023,Telangana,Hyderabad,ST,30.0,76.9
+2023,Madhya Pradesh,Indore,ST,16.0,100
+2023,Rajasthan,Jaipur,ST,228.0,23
+2023,Uttar Pradesh,Kanpur,ST,0.0,-
+2023,Kerala,Kochi,ST,3.0,83.3
+2023,West Bengal,Kolkata,ST,2.0,-
+2023,Kerala,Kozhikode,ST,2.0,100
+2023,Uttar Pradesh,Lucknow,ST,0.0,-
+2023,Maharashtra,Mumbai,ST,5.0,50
+2023,Maharashtra,Nagpur,ST,6.0,100
+2023,Bihar,Patna,ST,0.0,-
+2023,Maharashtra,Pune,ST,3.0,100
+2023,Gujarat,Surat,ST,18.0,94.1
+2024,Gujarat,Ahmedabad,ST,12.0,91.7
+2024,Karnataka,Bengaluru,ST,23.0,55
+2024,Tamil Nadu,Chennai,ST,0.0,0
+2024,Tamil Nadu,Coimbatore,ST,0.0,-
+2024,Delhi,Delhi City,ST,4.0,100
+2024,Uttar Pradesh,Ghaziabad,ST,0.0,-
+2024,Telangana,Hyderabad,ST,30.0,76.9
+2024,Madhya Pradesh,Indore,ST,7.0,100
+2024,Rajasthan,Jaipur,ST,228.0,23
+2024,Uttar Pradesh,Kanpur,ST,0.0,-
+2024,Kerala,Kochi,ST,8.0,83.3
+2024,West Bengal,Kolkata,ST,0.0,-
+2024,Kerala,Kozhikode,ST,2.0,100
+2024,Uttar Pradesh,Lucknow,ST,0.0,-
+2024,Maharashtra,Mumbai,ST,7.0,50
+2024,Maharashtra,Nagpur,ST,15.0,100
+2024,Bihar,Patna,ST,0.0,-
+2024,Maharashtra,Pune,ST,7.0,100
+2024,Gujarat,Surat,ST,17.0,94.1

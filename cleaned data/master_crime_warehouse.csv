@@ -1,0 +1,400 @@
+year,state,city,category,cases,crime_rate_2024,chargesheeting_rate_2024,crime_domain,victim_group,source_table
+2022,Gujarat,Ahmedabad,Women Safety,1452.0,35.3,89.7,women,Women,women
+2022,Karnataka,Bengaluru,Women Safety,3924.0,117.0,70.5,women,Women,women
+2022,Tamil Nadu,Chennai,Women Safety,736.0,25.4,93.9,women,Women,women
+2022,Tamil Nadu,Coimbatore,Women Safety,138.0,35.1,95.6,women,Women,women
+2022,Delhi,Delhi City,Women Safety,14158.0,176.8,73.6,women,Women,women
+2022,Uttar Pradesh,Ghaziabad,Women Safety,1063.0,114.8,65.8,women,Women,women
+2022,Telangana,Hyderabad,Women Safety,3145.0,86.5,76.3,women,Women,women
+2022,Madhya Pradesh,Indore,Women Safety,1809.0,181.5,76.2,women,Women,women
+2022,Rajasthan,Jaipur,Women Safety,3479.0,199.0,55.7,women,Women,women
+2022,Uttar Pradesh,Kanpur,Women Safety,2099.0,146.1,84.4,women,Women,women
+2022,Kerala,Kochi,Women Safety,754.0,72.8,91.2,women,Women,women
+2022,West Bengal,Kolkata,Women Safety,1890.0,28.8,98.5,women,Women,women
+2022,Kerala,Kozhikode,Women Safety,759.0,62.5,92.6,women,Women,women
+2022,Uttar Pradesh,Lucknow,Women Safety,2231.0,186.0,83.7,women,Women,women
+2022,Maharashtra,Mumbai,Women Safety,6176.0,74.6,81.4,women,Women,women
+2022,Maharashtra,Nagpur,Women Safety,1259.0,123.8,78.6,women,Women,women
+2022,Bihar,Patna,Women Safety,812.0,129.2,82.7,women,Women,women
+2022,Maharashtra,Pune,Women Safety,2074.0,110.1,75.9,women,Women,women
+2022,Gujarat,Surat,Women Safety,797.0,47.9,83.0,women,Women,women
+2023,Gujarat,Ahmedabad,Women Safety,1360.0,35.3,89.7,women,Women,women
+2023,Karnataka,Bengaluru,Women Safety,4870.0,117.0,70.5,women,Women,women
+2023,Tamil Nadu,Chennai,Women Safety,745.0,25.4,93.9,women,Women,women
+2023,Tamil Nadu,Coimbatore,Women Safety,244.0,35.1,95.6,women,Women,women
+2023,Delhi,Delhi City,Women Safety,13366.0,176.8,73.6,women,Women,women
+2023,Uttar Pradesh,Ghaziabad,Women Safety,904.0,114.8,65.8,women,Women,women
+2023,Telangana,Hyderabad,Women Safety,3822.0,86.5,76.3,women,Women,women
+2023,Madhya Pradesh,Indore,Women Safety,1919.0,181.5,76.2,women,Women,women
+2023,Rajasthan,Jaipur,Women Safety,3872.0,199.0,55.7,women,Women,women
+2023,Uttar Pradesh,Kanpur,Women Safety,2071.0,146.1,84.4,women,Women,women
+2023,Kerala,Kochi,Women Safety,783.0,72.8,91.2,women,Women,women
+2023,West Bengal,Kolkata,Women Safety,1746.0,28.8,98.5,women,Women,women
+2023,Kerala,Kozhikode,Women Safety,627.0,62.5,92.6,women,Women,women
+2023,Uttar Pradesh,Lucknow,Women Safety,2902.0,186.0,83.7,women,Women,women
+2023,Maharashtra,Mumbai,Women Safety,6025.0,74.6,81.4,women,Women,women
+2023,Maharashtra,Nagpur,Women Safety,1556.0,123.8,78.6,women,Women,women
+2023,Bihar,Patna,Women Safety,1162.0,129.2,82.7,women,Women,women
+2023,Maharashtra,Pune,Women Safety,2550.0,110.1,75.9,women,Women,women
+2023,Gujarat,Surat,Women Safety,869.0,47.9,83.0,women,Women,women
+2024,Gujarat,Ahmedabad,Women Safety,1059.0,35.3,89.7,women,Women,women
+2024,Karnataka,Bengaluru,Women Safety,4748.0,117.0,70.5,women,Women,women
+2024,Tamil Nadu,Chennai,Women Safety,1093.0,25.4,93.9,women,Women,women
+2024,Tamil Nadu,Coimbatore,Women Safety,377.0,35.1,95.6,women,Women,women
+2024,Delhi,Delhi City,Women Safety,13396.0,176.8,73.6,women,Women,women
+2024,Uttar Pradesh,Ghaziabad,Women Safety,1265.0,114.8,65.8,women,Women,women
+2024,Telangana,Hyderabad,Women Safety,3255.0,86.5,76.3,women,Women,women
+2024,Madhya Pradesh,Indore,Women Safety,1884.0,181.5,76.2,women,Women,women
+2024,Rajasthan,Jaipur,Women Safety,2894.0,199.0,55.7,women,Women,women
+2024,Uttar Pradesh,Kanpur,Women Safety,1950.0,146.1,84.4,women,Women,women
+2024,Kerala,Kochi,Women Safety,783.0,72.8,91.2,women,Women,women
+2024,West Bengal,Kolkata,Women Safety,1958.0,28.8,98.5,women,Women,women
+2024,Kerala,Kozhikode,Women Safety,665.0,62.5,92.6,women,Women,women
+2024,Uttar Pradesh,Lucknow,Women Safety,2571.0,186.0,83.7,women,Women,women
+2024,Maharashtra,Mumbai,Women Safety,6358.0,74.6,81.4,women,Women,women
+2024,Maharashtra,Nagpur,Women Safety,1513.0,123.8,78.6,women,Women,women
+2024,Bihar,Patna,Women Safety,1239.0,129.2,82.7,women,Women,women
+2024,Maharashtra,Pune,Women Safety,2631.0,110.1,75.9,women,Women,women
+2024,Gujarat,Surat,Women Safety,945.0,47.9,83.0,women,Women,women
+2022,Gujarat,Ahmedabad,children,829.0,None,82.9,children,Children,children
+2022,Karnataka,Bengaluru,children,1578.0,None,37.0,children,Children,children
+2022,Tamil Nadu,Chennai,children,514.0,None,96.0,children,Children,children
+2022,Tamil Nadu,Coimbatore,children,83.0,None,96.2,children,Children,children
+2022,Delhi,Delhi City,children,7400.0,None,31.7,children,Children,children
+2022,Uttar Pradesh,Ghaziabad,children,189.0,None,47.4,children,Children,children
+2022,Telangana,Hyderabad,children,645.0,None,59.3,children,Children,children
+2022,Madhya Pradesh,Indore,children,1082.0,None,46.3,children,Children,children
+2022,Rajasthan,Jaipur,children,980.0,None,33.9,children,Children,children
+2022,Uttar Pradesh,Kanpur,children,437.0,None,79.2,children,Children,children
+2022,Kerala,Kochi,children,206.0,None,91.1,children,Children,children
+2022,West Bengal,Kolkata,children,602.0,None,99.6,children,Children,children
+2022,Kerala,Kozhikode,children,265.0,None,86.7,children,Children,children
+2022,Uttar Pradesh,Lucknow,children,398.0,None,59.9,children,Children,children
+2022,Maharashtra,Mumbai,children,3178.0,None,52.3,children,Children,children
+2022,Maharashtra,Nagpur,children,765.0,None,42.6,children,Children,children
+2022,Bihar,Patna,children,127.0,None,72.7,children,Children,children
+2022,Maharashtra,Pune,children,732.0,None,57.7,children,Children,children
+2022,Gujarat,Surat,children,540.0,None,52.9,children,Children,children
+2023,Gujarat,Ahmedabad,children,832.0,None,82.9,children,Children,children
+2023,Karnataka,Bengaluru,children,1982.0,None,37.0,children,Children,children
+2023,Tamil Nadu,Chennai,children,573.0,None,96.0,children,Children,children
+2023,Tamil Nadu,Coimbatore,children,193.0,None,96.2,children,Children,children
+2023,Delhi,Delhi City,children,7731.0,None,31.7,children,Children,children
+2023,Uttar Pradesh,Ghaziabad,children,208.0,None,47.4,children,Children,children
+2023,Telangana,Hyderabad,children,692.0,None,59.3,children,Children,children
+2023,Madhya Pradesh,Indore,children,1236.0,None,46.3,children,Children,children
+2023,Rajasthan,Jaipur,children,1099.0,None,33.9,children,Children,children
+2023,Uttar Pradesh,Kanpur,children,426.0,None,79.2,children,Children,children
+2023,Kerala,Kochi,children,230.0,None,91.1,children,Children,children
+2023,West Bengal,Kolkata,children,297.0,None,99.6,children,Children,children
+2023,Kerala,Kozhikode,children,250.0,None,86.7,children,Children,children
+2023,Uttar Pradesh,Lucknow,children,844.0,None,59.9,children,Children,children
+2023,Maharashtra,Mumbai,children,3110.0,None,52.3,children,Children,children
+2023,Maharashtra,Nagpur,children,802.0,None,42.6,children,Children,children
+2023,Bihar,Patna,children,144.0,None,72.7,children,Children,children
+2023,Maharashtra,Pune,children,1234.0,None,57.7,children,Children,children
+2023,Gujarat,Surat,children,550.0,None,52.9,children,Children,children
+2024,Gujarat,Ahmedabad,children,942.0,None,82.9,children,Children,children
+2024,Karnataka,Bengaluru,children,2026.0,None,37.0,children,Children,children
+2024,Tamil Nadu,Chennai,children,719.0,None,96.0,children,Children,children
+2024,Tamil Nadu,Coimbatore,children,243.0,None,96.2,children,Children,children
+2024,Delhi,Delhi City,children,7662.0,None,31.7,children,Children,children
+2024,Uttar Pradesh,Ghaziabad,children,713.0,None,47.4,children,Children,children
+2024,Telangana,Hyderabad,children,920.0,None,59.3,children,Children,children
+2024,Madhya Pradesh,Indore,children,1157.0,None,46.3,children,Children,children
+2024,Rajasthan,Jaipur,children,863.0,None,33.9,children,Children,children
+2024,Uttar Pradesh,Kanpur,children,379.0,None,79.2,children,Children,children
+2024,Kerala,Kochi,children,267.0,None,91.1,children,Children,children
+2024,West Bengal,Kolkata,children,468.0,None,99.6,children,Children,children
+2024,Kerala,Kozhikode,children,245.0,None,86.7,children,Children,children
+2024,Uttar Pradesh,Lucknow,children,880.0,None,59.9,children,Children,children
+2024,Maharashtra,Mumbai,children,3374.0,None,52.3,children,Children,children
+2024,Maharashtra,Nagpur,children,977.0,None,42.6,children,Children,children
+2024,Bihar,Patna,children,653.0,None,72.7,children,Children,children
+2024,Maharashtra,Pune,children,1330.0,None,57.7,children,Children,children
+2024,Gujarat,Surat,children,559.0,None,52.9,children,Children,children
+2022,Gujarat,Ahmedabad,SC,189.0,None,95.9,sc,SC,sc
+2022,Karnataka,Bengaluru,SC,231.0,None,73.9,sc,SC,sc
+2022,Tamil Nadu,Chennai,SC,25.0,None,53.7,sc,SC,sc
+2022,Tamil Nadu,Coimbatore,SC,21.0,None,84.2,sc,SC,sc
+2022,Delhi,Delhi City,SC,129.0,None,95.5,sc,SC,sc
+2022,Uttar Pradesh,Ghaziabad,SC,72.0,None,92.3,sc,SC,sc
+2022,Telangana,Hyderabad,SC,113.0,None,65.9,sc,SC,sc
+2022,Madhya Pradesh,Indore,SC,47.0,None,97.4,sc,SC,sc
+2022,Rajasthan,Jaipur,SC,381.0,None,31.4,sc,SC,sc
+2022,Uttar Pradesh,Kanpur,SC,376.0,None,89.4,sc,SC,sc
+2022,Kerala,Kochi,SC,22.0,None,62.5,sc,SC,sc
+2022,West Bengal,Kolkata,SC,10.0,None,-,sc,SC,sc
+2022,Kerala,Kozhikode,SC,27.0,None,68.8,sc,SC,sc
+2022,Uttar Pradesh,Lucknow,SC,420.0,None,84.4,sc,SC,sc
+2022,Maharashtra,Mumbai,SC,58.0,None,80.4,sc,SC,sc
+2022,Maharashtra,Nagpur,SC,35.0,None,96.8,sc,SC,sc
+2022,Bihar,Patna,SC,96.0,None,100,sc,SC,sc
+2022,Maharashtra,Pune,SC,61.0,None,100,sc,SC,sc
+2022,Gujarat,Surat,SC,34.0,None,95.7,sc,SC,sc
+2023,Gujarat,Ahmedabad,SC,177.0,None,95.9,sc,SC,sc
+2023,Karnataka,Bengaluru,SC,285.0,None,73.9,sc,SC,sc
+2023,Tamil Nadu,Chennai,SC,24.0,None,53.7,sc,SC,sc
+2023,Tamil Nadu,Coimbatore,SC,8.0,None,84.2,sc,SC,sc
+2023,Delhi,Delhi City,SC,126.0,None,95.5,sc,SC,sc
+2023,Uttar Pradesh,Ghaziabad,SC,63.0,None,92.3,sc,SC,sc
+2023,Telangana,Hyderabad,SC,134.0,None,65.9,sc,SC,sc
+2023,Madhya Pradesh,Indore,SC,46.0,None,97.4,sc,SC,sc
+2023,Rajasthan,Jaipur,SC,489.0,None,31.4,sc,SC,sc
+2023,Uttar Pradesh,Kanpur,SC,263.0,None,89.4,sc,SC,sc
+2023,Kerala,Kochi,SC,43.0,None,62.5,sc,SC,sc
+2023,West Bengal,Kolkata,SC,10.0,None,-,sc,SC,sc
+2023,Kerala,Kozhikode,SC,30.0,None,68.8,sc,SC,sc
+2023,Uttar Pradesh,Lucknow,SC,517.0,None,84.4,sc,SC,sc
+2023,Maharashtra,Mumbai,SC,52.0,None,80.4,sc,SC,sc
+2023,Maharashtra,Nagpur,SC,40.0,None,96.8,sc,SC,sc
+2023,Bihar,Patna,SC,105.0,None,100,sc,SC,sc
+2023,Maharashtra,Pune,SC,70.0,None,100,sc,SC,sc
+2023,Gujarat,Surat,SC,38.0,None,95.7,sc,SC,sc
+2024,Gujarat,Ahmedabad,SC,126.0,None,95.9,sc,SC,sc
+2024,Karnataka,Bengaluru,SC,280.0,None,73.9,sc,SC,sc
+2024,Tamil Nadu,Chennai,SC,34.0,None,53.7,sc,SC,sc
+2024,Tamil Nadu,Coimbatore,SC,18.0,None,84.2,sc,SC,sc
+2024,Delhi,Delhi City,SC,133.0,None,95.5,sc,SC,sc
+2024,Uttar Pradesh,Ghaziabad,SC,52.0,None,92.3,sc,SC,sc
+2024,Telangana,Hyderabad,SC,153.0,None,65.9,sc,SC,sc
+2024,Madhya Pradesh,Indore,SC,28.0,None,97.4,sc,SC,sc
+2024,Rajasthan,Jaipur,SC,396.0,None,31.4,sc,SC,sc
+2024,Uttar Pradesh,Kanpur,SC,271.0,None,89.4,sc,SC,sc
+2024,Kerala,Kochi,SC,42.0,None,62.5,sc,SC,sc
+2024,West Bengal,Kolkata,SC,7.0,None,-,sc,SC,sc
+2024,Kerala,Kozhikode,SC,23.0,None,68.8,sc,SC,sc
+2024,Uttar Pradesh,Lucknow,SC,490.0,None,84.4,sc,SC,sc
+2024,Maharashtra,Mumbai,SC,62.0,None,80.4,sc,SC,sc
+2024,Maharashtra,Nagpur,SC,66.0,None,96.8,sc,SC,sc
+2024,Bihar,Patna,SC,253.0,None,100,sc,SC,sc
+2024,Maharashtra,Pune,SC,121.0,None,100,sc,SC,sc
+2024,Gujarat,Surat,SC,51.0,None,95.7,sc,SC,sc
+2022,Gujarat,Ahmedabad,ST,18.0,None,91.7,st,ST,st
+2022,Karnataka,Bengaluru,ST,16.0,None,55,st,ST,st
+2022,Tamil Nadu,Chennai,ST,0.0,None,0,st,ST,st
+2022,Tamil Nadu,Coimbatore,ST,1.0,None,-,st,ST,st
+2022,Delhi,Delhi City,ST,0.0,None,100,st,ST,st
+2022,Uttar Pradesh,Ghaziabad,ST,0.0,None,-,st,ST,st
+2022,Telangana,Hyderabad,ST,31.0,None,76.9,st,ST,st
+2022,Madhya Pradesh,Indore,ST,9.0,None,100,st,ST,st
+2022,Rajasthan,Jaipur,ST,214.0,None,23,st,ST,st
+2022,Uttar Pradesh,Kanpur,ST,0.0,None,-,st,ST,st
+2022,Kerala,Kochi,ST,5.0,None,83.3,st,ST,st
+2022,West Bengal,Kolkata,ST,2.0,None,-,st,ST,st
+2022,Kerala,Kozhikode,ST,3.0,None,100,st,ST,st
+2022,Uttar Pradesh,Lucknow,ST,0.0,None,-,st,ST,st
+2022,Maharashtra,Mumbai,ST,2.0,None,50,st,ST,st
+2022,Maharashtra,Nagpur,ST,12.0,None,100,st,ST,st
+2022,Bihar,Patna,ST,0.0,None,-,st,ST,st
+2022,Maharashtra,Pune,ST,0.0,None,100,st,ST,st
+2022,Gujarat,Surat,ST,16.0,None,94.1,st,ST,st
+2023,Gujarat,Ahmedabad,ST,18.0,None,91.7,st,ST,st
+2023,Karnataka,Bengaluru,ST,16.0,None,55,st,ST,st
+2023,Tamil Nadu,Chennai,ST,0.0,None,0,st,ST,st
+2023,Tamil Nadu,Coimbatore,ST,0.0,None,-,st,ST,st
+2023,Delhi,Delhi City,ST,2.0,None,100,st,ST,st
+2023,Uttar Pradesh,Ghaziabad,ST,0.0,None,-,st,ST,st
+2023,Telangana,Hyderabad,ST,30.0,None,76.9,st,ST,st
+2023,Madhya Pradesh,Indore,ST,16.0,None,100,st,ST,st
+2023,Rajasthan,Jaipur,ST,228.0,None,23,st,ST,st
+2023,Uttar Pradesh,Kanpur,ST,0.0,None,-,st,ST,st
+2023,Kerala,Kochi,ST,3.0,None,83.3,st,ST,st
+2023,West Bengal,Kolkata,ST,2.0,None,-,st,ST,st
+2023,Kerala,Kozhikode,ST,2.0,None,100,st,ST,st
+2023,Uttar Pradesh,Lucknow,ST,0.0,None,-,st,ST,st
+2023,Maharashtra,Mumbai,ST,5.0,None,50,st,ST,st
+2023,Maharashtra,Nagpur,ST,6.0,None,100,st,ST,st
+2023,Bihar,Patna,ST,0.0,None,-,st,ST,st
+2023,Maharashtra,Pune,ST,3.0,None,100,st,ST,st
+2023,Gujarat,Surat,ST,18.0,None,94.1,st,ST,st
+2024,Gujarat,Ahmedabad,ST,12.0,None,91.7,st,ST,st
+2024,Karnataka,Bengaluru,ST,23.0,None,55,st,ST,st
+2024,Tamil Nadu,Chennai,ST,0.0,None,0,st,ST,st
+2024,Tamil Nadu,Coimbatore,ST,0.0,None,-,st,ST,st
+2024,Delhi,Delhi City,ST,4.0,None,100,st,ST,st
+2024,Uttar Pradesh,Ghaziabad,ST,0.0,None,-,st,ST,st
+2024,Telangana,Hyderabad,ST,30.0,None,76.9,st,ST,st
+2024,Madhya Pradesh,Indore,ST,7.0,None,100,st,ST,st
+2024,Rajasthan,Jaipur,ST,228.0,None,23,st,ST,st
+2024,Uttar Pradesh,Kanpur,ST,0.0,None,-,st,ST,st
+2024,Kerala,Kochi,ST,8.0,None,83.3,st,ST,st
+2024,West Bengal,Kolkata,ST,0.0,None,-,st,ST,st
+2024,Kerala,Kozhikode,ST,2.0,None,100,st,ST,st
+2024,Uttar Pradesh,Lucknow,ST,0.0,None,-,st,ST,st
+2024,Maharashtra,Mumbai,ST,7.0,None,50,st,ST,st
+2024,Maharashtra,Nagpur,ST,15.0,None,100,st,ST,st
+2024,Bihar,Patna,ST,0.0,None,-,st,ST,st
+2024,Maharashtra,Pune,ST,7.0,None,100,st,ST,st
+2024,Gujarat,Surat,ST,17.0,None,94.1,st,ST,st
+2022,Gujarat,Ahmedabad,Senior Citizen,238.0,None,51.1,senior,Senior Citizens,senior
+2022,Karnataka,Bengaluru,Senior Citizen,458.0,None,57.4,senior,Senior Citizens,senior
+2022,Tamil Nadu,Chennai,Senior Citizen,391.0,None,89.7,senior,Senior Citizens,senior
+2022,Tamil Nadu,Coimbatore,Senior Citizen,6.0,None,92.3,senior,Senior Citizens,senior
+2022,Delhi,Delhi City,Senior Citizen,1313.0,None,51.6,senior,Senior Citizens,senior
+2022,Uttar Pradesh,Ghaziabad,Senior Citizen,0.0,None,-,senior,Senior Citizens,senior
+2022,Telangana,Hyderabad,Senior Citizen,331.0,None,-,senior,Senior Citizens,senior
+2022,Madhya Pradesh,Indore,Senior Citizen,207.0,None,96,senior,Senior Citizens,senior
+2022,Rajasthan,Jaipur,Senior Citizen,83.0,None,15.6,senior,Senior Citizens,senior
+2022,Uttar Pradesh,Kanpur,Senior Citizen,0.0,None,-,senior,Senior Citizens,senior
+2022,Kerala,Kochi,Senior Citizen,74.0,None,81.8,senior,Senior Citizens,senior
+2022,West Bengal,Kolkata,Senior Citizen,2.0,None,100,senior,Senior Citizens,senior
+2022,Kerala,Kozhikode,Senior Citizen,52.0,None,96,senior,Senior Citizens,senior
+2022,Uttar Pradesh,Lucknow,Senior Citizen,0.0,None,-,senior,Senior Citizens,senior
+2022,Maharashtra,Mumbai,Senior Citizen,572.0,None,51.6,senior,Senior Citizens,senior
+2022,Maharashtra,Nagpur,Senior Citizen,167.0,None,51.1,senior,Senior Citizens,senior
+2022,Bihar,Patna,Senior Citizen,0.0,None,-,senior,Senior Citizens,senior
+2022,Maharashtra,Pune,Senior Citizen,69.0,None,35.4,senior,Senior Citizens,senior
+2022,Gujarat,Surat,Senior Citizen,33.0,None,61.5,senior,Senior Citizens,senior
+2023,Gujarat,Ahmedabad,Senior Citizen,184.0,None,51.1,senior,Senior Citizens,senior
+2023,Karnataka,Bengaluru,Senior Citizen,649.0,None,57.4,senior,Senior Citizens,senior
+2023,Tamil Nadu,Chennai,Senior Citizen,399.0,None,89.7,senior,Senior Citizens,senior
+2023,Tamil Nadu,Coimbatore,Senior Citizen,24.0,None,92.3,senior,Senior Citizens,senior
+2023,Delhi,Delhi City,Senior Citizen,1361.0,None,51.6,senior,Senior Citizens,senior
+2023,Uttar Pradesh,Ghaziabad,Senior Citizen,0.0,None,-,senior,Senior Citizens,senior
+2023,Telangana,Hyderabad,Senior Citizen,292.0,None,-,senior,Senior Citizens,senior
+2023,Madhya Pradesh,Indore,Senior Citizen,273.0,None,96,senior,Senior Citizens,senior
+2023,Rajasthan,Jaipur,Senior Citizen,185.0,None,15.6,senior,Senior Citizens,senior
+2023,Uttar Pradesh,Kanpur,Senior Citizen,0.0,None,-,senior,Senior Citizens,senior
+2023,Kerala,Kochi,Senior Citizen,126.0,None,81.8,senior,Senior Citizens,senior
+2023,West Bengal,Kolkata,Senior Citizen,6.0,None,100,senior,Senior Citizens,senior
+2023,Kerala,Kozhikode,Senior Citizen,93.0,None,96,senior,Senior Citizens,senior
+2023,Uttar Pradesh,Lucknow,Senior Citizen,0.0,None,-,senior,Senior Citizens,senior
+2023,Maharashtra,Mumbai,Senior Citizen,518.0,None,51.6,senior,Senior Citizens,senior
+2023,Maharashtra,Nagpur,Senior Citizen,231.0,None,51.1,senior,Senior Citizens,senior
+2023,Bihar,Patna,Senior Citizen,0.0,None,-,senior,Senior Citizens,senior
+2023,Maharashtra,Pune,Senior Citizen,57.0,None,35.4,senior,Senior Citizens,senior
+2023,Gujarat,Surat,Senior Citizen,14.0,None,61.5,senior,Senior Citizens,senior
+2024,Gujarat,Ahmedabad,Senior Citizen,166.0,None,51.1,senior,Senior Citizens,senior
+2024,Karnataka,Bengaluru,Senior Citizen,660.0,None,57.4,senior,Senior Citizens,senior
+2024,Tamil Nadu,Chennai,Senior Citizen,251.0,None,89.7,senior,Senior Citizens,senior
+2024,Tamil Nadu,Coimbatore,Senior Citizen,49.0,None,92.3,senior,Senior Citizens,senior
+2024,Delhi,Delhi City,Senior Citizen,1267.0,None,51.6,senior,Senior Citizens,senior
+2024,Uttar Pradesh,Ghaziabad,Senior Citizen,0.0,None,-,senior,Senior Citizens,senior
+2024,Telangana,Hyderabad,Senior Citizen,1.0,None,-,senior,Senior Citizens,senior
+2024,Madhya Pradesh,Indore,Senior Citizen,113.0,None,96,senior,Senior Citizens,senior
+2024,Rajasthan,Jaipur,Senior Citizen,72.0,None,15.6,senior,Senior Citizens,senior
+2024,Uttar Pradesh,Kanpur,Senior Citizen,0.0,None,-,senior,Senior Citizens,senior
+2024,Kerala,Kochi,Senior Citizen,263.0,None,81.8,senior,Senior Citizens,senior
+2024,West Bengal,Kolkata,Senior Citizen,3.0,None,100,senior,Senior Citizens,senior
+2024,Kerala,Kozhikode,Senior Citizen,103.0,None,96,senior,Senior Citizens,senior
+2024,Uttar Pradesh,Lucknow,Senior Citizen,0.0,None,-,senior,Senior Citizens,senior
+2024,Maharashtra,Mumbai,Senior Citizen,791.0,None,51.6,senior,Senior Citizens,senior
+2024,Maharashtra,Nagpur,Senior Citizen,204.0,None,51.1,senior,Senior Citizens,senior
+2024,Bihar,Patna,Senior Citizen,0.0,None,-,senior,Senior Citizens,senior
+2024,Maharashtra,Pune,Senior Citizen,151.0,None,35.4,senior,Senior Citizens,senior
+2024,Gujarat,Surat,Senior Citizen,13.0,None,61.5,senior,Senior Citizens,senior
+2022,Gujarat,Ahmedabad,Cybercrime,261.0,6.2,48.6,cybercrime,Cybercrime,cybercrime
+2022,Karnataka,Bengaluru,Cybercrime,9940.0,206.6,24.2,cybercrime,Cybercrime,cybercrime
+2022,Tamil Nadu,Chennai,Cybercrime,271.0,21.6,41.2,cybercrime,Cybercrime,cybercrime
+2022,Tamil Nadu,Coimbatore,Cybercrime,68.0,13.9,17.9,cybercrime,Cybercrime,cybercrime
+2022,Delhi,Delhi City,Cybercrime,685.0,2.5,77.8,cybercrime,Cybercrime,cybercrime
+2022,Uttar Pradesh,Ghaziabad,Cybercrime,626.0,20.3,21.3,cybercrime,Cybercrime,cybercrime
+2022,Telangana,Hyderabad,Cybercrime,4436.0,51.7,12.9,cybercrime,Cybercrime,cybercrime
+2022,Madhya Pradesh,Indore,Cybercrime,47.0,2.6,82.4,cybercrime,Cybercrime,cybercrime
+2022,Rajasthan,Jaipur,Cybercrime,310.0,6.4,33.2,cybercrime,Cybercrime,cybercrime
+2022,Uttar Pradesh,Kanpur,Cybercrime,541.0,15.4,84.6,cybercrime,Cybercrime,cybercrime
+2022,Kerala,Kochi,Cybercrime,96.0,9.5,55.4,cybercrime,Cybercrime,cybercrime
+2022,West Bengal,Kolkata,Cybercrime,75.0,0.1,95.6,cybercrime,Cybercrime,cybercrime
+2022,Kerala,Kozhikode,Cybercrime,45.0,5.2,39.5,cybercrime,Cybercrime,cybercrime
+2022,Uttar Pradesh,Lucknow,Cybercrime,1134.0,44.5,22.8,cybercrime,Cybercrime,cybercrime
+2022,Maharashtra,Mumbai,Cybercrime,4724.0,26.8,30.8,cybercrime,Cybercrime,cybercrime
+2022,Maharashtra,Nagpur,Cybercrime,211.0,10.1,79.6,cybercrime,Cybercrime,cybercrime
+2022,Bihar,Patna,Cybercrime,222.0,31.4,100.0,cybercrime,Cybercrime,cybercrime
+2022,Maharashtra,Pune,Cybercrime,357.0,29.8,26.6,cybercrime,Cybercrime,cybercrime
+2022,Gujarat,Surat,Cybercrime,371.0,5.8,66.7,cybercrime,Cybercrime,cybercrime
+2023,Gujarat,Ahmedabad,Cybercrime,246.0,6.2,48.6,cybercrime,Cybercrime,cybercrime
+2023,Karnataka,Bengaluru,Cybercrime,17631.0,206.6,24.2,cybercrime,Cybercrime,cybercrime
+2023,Tamil Nadu,Chennai,Cybercrime,1352.0,21.6,41.2,cybercrime,Cybercrime,cybercrime
+2023,Tamil Nadu,Coimbatore,Cybercrime,207.0,13.9,17.9,cybercrime,Cybercrime,cybercrime
+2023,Delhi,Delhi City,Cybercrime,407.0,2.5,77.8,cybercrime,Cybercrime,cybercrime
+2023,Uttar Pradesh,Ghaziabad,Cybercrime,880.0,20.3,21.3,cybercrime,Cybercrime,cybercrime
+2023,Telangana,Hyderabad,Cybercrime,4855.0,51.7,12.9,cybercrime,Cybercrime,cybercrime
+2023,Madhya Pradesh,Indore,Cybercrime,86.0,2.6,82.4,cybercrime,Cybercrime,cybercrime
+2023,Rajasthan,Jaipur,Cybercrime,551.0,6.4,33.2,cybercrime,Cybercrime,cybercrime
+2023,Uttar Pradesh,Kanpur,Cybercrime,481.0,15.4,84.6,cybercrime,Cybercrime,cybercrime
+2023,Kerala,Kochi,Cybercrime,112.0,9.5,55.4,cybercrime,Cybercrime,cybercrime
+2023,West Bengal,Kolkata,Cybercrime,21.0,0.1,95.6,cybercrime,Cybercrime,cybercrime
+2023,Kerala,Kozhikode,Cybercrime,114.0,5.2,39.5,cybercrime,Cybercrime,cybercrime
+2023,Uttar Pradesh,Lucknow,Cybercrime,1453.0,44.5,22.8,cybercrime,Cybercrime,cybercrime
+2023,Maharashtra,Mumbai,Cybercrime,4131.0,26.8,30.8,cybercrime,Cybercrime,cybercrime
+2023,Maharashtra,Nagpur,Cybercrime,309.0,10.1,79.6,cybercrime,Cybercrime,cybercrime
+2023,Bihar,Patna,Cybercrime,235.0,31.4,100.0,cybercrime,Cybercrime,cybercrime
+2023,Maharashtra,Pune,Cybercrime,487.0,29.8,26.6,cybercrime,Cybercrime,cybercrime
+2023,Gujarat,Surat,Cybercrime,397.0,5.8,66.7,cybercrime,Cybercrime,cybercrime
+2024,Gujarat,Ahmedabad,Cybercrime,396.0,6.2,48.6,cybercrime,Cybercrime,cybercrime
+2024,Karnataka,Bengaluru,Cybercrime,17561.0,206.6,24.2,cybercrime,Cybercrime,cybercrime
+2024,Tamil Nadu,Chennai,Cybercrime,1882.0,21.6,41.2,cybercrime,Cybercrime,cybercrime
+2024,Tamil Nadu,Coimbatore,Cybercrime,300.0,13.9,17.9,cybercrime,Cybercrime,cybercrime
+2024,Delhi,Delhi City,Cybercrime,404.0,2.5,77.8,cybercrime,Cybercrime,cybercrime
+2024,Uttar Pradesh,Ghaziabad,Cybercrime,479.0,20.3,21.3,cybercrime,Cybercrime,cybercrime
+2024,Telangana,Hyderabad,Cybercrime,4009.0,51.7,12.9,cybercrime,Cybercrime,cybercrime
+2024,Madhya Pradesh,Indore,Cybercrime,57.0,2.6,82.4,cybercrime,Cybercrime,cybercrime
+2024,Rajasthan,Jaipur,Cybercrime,197.0,6.4,33.2,cybercrime,Cybercrime,cybercrime
+2024,Uttar Pradesh,Kanpur,Cybercrime,449.0,15.4,84.6,cybercrime,Cybercrime,cybercrime
+2024,Kerala,Kochi,Cybercrime,201.0,9.5,55.4,cybercrime,Cybercrime,cybercrime
+2024,West Bengal,Kolkata,Cybercrime,21.0,0.1,95.6,cybercrime,Cybercrime,cybercrime
+2024,Kerala,Kozhikode,Cybercrime,106.0,5.2,39.5,cybercrime,Cybercrime,cybercrime
+2024,Uttar Pradesh,Lucknow,Cybercrime,1292.0,44.5,22.8,cybercrime,Cybercrime,cybercrime
+2024,Maharashtra,Mumbai,Cybercrime,4939.0,26.8,30.8,cybercrime,Cybercrime,cybercrime
+2024,Maharashtra,Nagpur,Cybercrime,253.0,10.1,79.6,cybercrime,Cybercrime,cybercrime
+2024,Bihar,Patna,Cybercrime,642.0,31.4,100.0,cybercrime,Cybercrime,cybercrime
+2024,Maharashtra,Pune,Cybercrime,1504.0,29.8,26.6,cybercrime,Cybercrime,cybercrime
+2024,Gujarat,Surat,Cybercrime,266.0,5.8,66.7,cybercrime,Cybercrime,cybercrime
+2022,Gujarat,Ahmedabad,Economic Offences,591.0,12.7,64.3,economic,Economic Offences,economic
+2022,Karnataka,Bengaluru,Economic Offences,3245.0,40.9,49.1,economic,Economic Offences,economic
+2022,Tamil Nadu,Chennai,Economic Offences,1038.0,28.0,42.5,economic,Economic Offences,economic
+2022,Tamil Nadu,Coimbatore,Economic Offences,261.0,30.7,59.8,economic,Economic Offences,economic
+2022,Delhi,Delhi City,Economic Offences,5007.0,27.7,58.1,economic,Economic Offences,economic
+2022,Uttar Pradesh,Ghaziabad,Economic Offences,1024.0,32.9,59.7,economic,Economic Offences,economic
+2022,Telangana,Hyderabad,Economic Offences,6015.0,75.4,30.6,economic,Economic Offences,economic
+2022,Madhya Pradesh,Indore,Economic Offences,562.0,13.6,74.2,economic,Economic Offences,economic
+2022,Rajasthan,Jaipur,Economic Offences,5332.0,178.0,17.4,economic,Economic Offences,economic
+2022,Uttar Pradesh,Kanpur,Economic Offences,595.0,15.9,75.4,economic,Economic Offences,economic
+2022,Kerala,Kochi,Economic Offences,445.0,49.6,65.0,economic,Economic Offences,economic
+2022,West Bengal,Kolkata,Economic Offences,2013.0,12.9,92.4,economic,Economic Offences,economic
+2022,Kerala,Kozhikode,Economic Offences,191.0,23.1,42.3,economic,Economic Offences,economic
+2022,Uttar Pradesh,Lucknow,Economic Offences,3702.0,59.7,50.8,economic,Economic Offences,economic
+2022,Maharashtra,Mumbai,Economic Offences,6960.0,42.2,48.2,economic,Economic Offences,economic
+2022,Maharashtra,Nagpur,Economic Offences,550.0,29.9,31.5,economic,Economic Offences,economic
+2022,Bihar,Patna,Economic Offences,1532.0,68.5,92.2,economic,Economic Offences,economic
+2022,Maharashtra,Pune,Economic Offences,1023.0,42.1,56.1,economic,Economic Offences,economic
+2022,Gujarat,Surat,Economic Offences,674.0,19.2,78.4,economic,Economic Offences,economic
+2023,Gujarat,Ahmedabad,Economic Offences,646.0,12.7,64.3,economic,Economic Offences,economic
+2023,Karnataka,Bengaluru,Economic Offences,3858.0,40.9,49.1,economic,Economic Offences,economic
+2023,Tamil Nadu,Chennai,Economic Offences,2155.0,28.0,42.5,economic,Economic Offences,economic
+2023,Tamil Nadu,Coimbatore,Economic Offences,499.0,30.7,59.8,economic,Economic Offences,economic
+2023,Delhi,Delhi City,Economic Offences,4580.0,27.7,58.1,economic,Economic Offences,economic
+2023,Uttar Pradesh,Ghaziabad,Economic Offences,1004.0,32.9,59.7,economic,Economic Offences,economic
+2023,Telangana,Hyderabad,Economic Offences,5728.0,75.4,30.6,economic,Economic Offences,economic
+2023,Madhya Pradesh,Indore,Economic Offences,553.0,13.6,74.2,economic,Economic Offences,economic
+2023,Rajasthan,Jaipur,Economic Offences,5304.0,178.0,17.4,economic,Economic Offences,economic
+2023,Uttar Pradesh,Kanpur,Economic Offences,629.0,15.9,75.4,economic,Economic Offences,economic
+2023,Kerala,Kochi,Economic Offences,869.0,49.6,65.0,economic,Economic Offences,economic
+2023,West Bengal,Kolkata,Economic Offences,1544.0,12.9,92.4,economic,Economic Offences,economic
+2023,Kerala,Kozhikode,Economic Offences,422.0,23.1,42.3,economic,Economic Offences,economic
+2023,Uttar Pradesh,Lucknow,Economic Offences,2446.0,59.7,50.8,economic,Economic Offences,economic
+2023,Maharashtra,Mumbai,Economic Offences,6476.0,42.2,48.2,economic,Economic Offences,economic
+2023,Maharashtra,Nagpur,Economic Offences,697.0,29.9,31.5,economic,Economic Offences,economic
+2023,Bihar,Patna,Economic Offences,1861.0,68.5,92.2,economic,Economic Offences,economic
+2023,Maharashtra,Pune,Economic Offences,1207.0,42.1,56.1,economic,Economic Offences,economic
+2023,Gujarat,Surat,Economic Offences,742.0,19.2,78.4,economic,Economic Offences,economic
+2024,Gujarat,Ahmedabad,Economic Offences,806.0,12.7,64.3,economic,Economic Offences,economic
+2024,Karnataka,Bengaluru,Economic Offences,3477.0,40.9,49.1,economic,Economic Offences,economic
+2024,Tamil Nadu,Chennai,Economic Offences,2436.0,28.0,42.5,economic,Economic Offences,economic
+2024,Tamil Nadu,Coimbatore,Economic Offences,660.0,30.7,59.8,economic,Economic Offences,economic
+2024,Delhi,Delhi City,Economic Offences,4524.0,27.7,58.1,economic,Economic Offences,economic
+2024,Uttar Pradesh,Ghaziabad,Economic Offences,775.0,32.9,59.7,economic,Economic Offences,economic
+2024,Telangana,Hyderabad,Economic Offences,5839.0,75.4,30.6,economic,Economic Offences,economic
+2024,Madhya Pradesh,Indore,Economic Offences,295.0,13.6,74.2,economic,Economic Offences,economic
+2024,Rajasthan,Jaipur,Economic Offences,5471.0,178.0,17.4,economic,Economic Offences,economic
+2024,Uttar Pradesh,Kanpur,Economic Offences,463.0,15.9,75.4,economic,Economic Offences,economic
+2024,Kerala,Kochi,Economic Offences,1050.0,49.6,65.0,economic,Economic Offences,economic
+2024,West Bengal,Kolkata,Economic Offences,1825.0,12.9,92.4,economic,Economic Offences,economic
+2024,Kerala,Kozhikode,Economic Offences,469.0,23.1,42.3,economic,Economic Offences,economic
+2024,Uttar Pradesh,Lucknow,Economic Offences,1732.0,59.7,50.8,economic,Economic Offences,economic
+2024,Maharashtra,Mumbai,Economic Offences,7771.0,42.2,48.2,economic,Economic Offences,economic
+2024,Maharashtra,Nagpur,Economic Offences,748.0,29.9,31.5,economic,Economic Offences,economic
+2024,Bihar,Patna,Economic Offences,1402.0,68.5,92.2,economic,Economic Offences,economic
+2024,Maharashtra,Pune,Economic Offences,2125.0,42.1,56.1,economic,Economic Offences,economic
+2024,Gujarat,Surat,Economic Offences,879.0,19.2,78.4,economic,Economic Offences,economic

@@ -1,0 +1,58 @@
+state,city,category,crime_head,cases
+Gujarat,Ahmedabad,Economic Offences,criminal_breach_of_trust,135.0
+Karnataka,Bengaluru,Economic Offences,criminal_breach_of_trust,217.0
+Tamil Nadu,Chennai,Economic Offences,criminal_breach_of_trust,11.0
+Tamil Nadu,Coimbatore,Economic Offences,criminal_breach_of_trust,2.0
+Delhi,Delhi City,Economic Offences,criminal_breach_of_trust,254.0
+Uttar Pradesh,Ghaziabad,Economic Offences,criminal_breach_of_trust,249.0
+Telangana,Hyderabad,Economic Offences,criminal_breach_of_trust,155.0
+Madhya Pradesh,Indore,Economic Offences,criminal_breach_of_trust,46.0
+Rajasthan,Jaipur,Economic Offences,criminal_breach_of_trust,199.0
+Uttar Pradesh,Kanpur,Economic Offences,criminal_breach_of_trust,114.0
+Kerala,Kochi,Economic Offences,criminal_breach_of_trust,25.0
+West Bengal,Kolkata,Economic Offences,criminal_breach_of_trust,227.0
+Kerala,Kozhikode,Economic Offences,criminal_breach_of_trust,13.0
+Uttar Pradesh,Lucknow,Economic Offences,criminal_breach_of_trust,482.0
+Maharashtra,Mumbai,Economic Offences,criminal_breach_of_trust,1395.0
+Maharashtra,Nagpur,Economic Offences,criminal_breach_of_trust,48.0
+Bihar,Patna,Economic Offences,criminal_breach_of_trust,0.0
+Maharashtra,Pune,Economic Offences,criminal_breach_of_trust,93.0
+Gujarat,Surat,Economic Offences,criminal_breach_of_trust,312.0
+Gujarat,Ahmedabad,Economic Offences,counterfeiting,10.0
+Karnataka,Bengaluru,Economic Offences,counterfeiting,11.0
+Tamil Nadu,Chennai,Economic Offences,counterfeiting,2.0
+Tamil Nadu,Coimbatore,Economic Offences,counterfeiting,2.0
+Delhi,Delhi City,Economic Offences,counterfeiting,33.0
+Uttar Pradesh,Ghaziabad,Economic Offences,counterfeiting,7.0
+Telangana,Hyderabad,Economic Offences,counterfeiting,5.0
+Madhya Pradesh,Indore,Economic Offences,counterfeiting,1.0
+Rajasthan,Jaipur,Economic Offences,counterfeiting,4.0
+Uttar Pradesh,Kanpur,Economic Offences,counterfeiting,4.0
+Kerala,Kochi,Economic Offences,counterfeiting,0.0
+West Bengal,Kolkata,Economic Offences,counterfeiting,12.0
+Kerala,Kozhikode,Economic Offences,counterfeiting,6.0
+Uttar Pradesh,Lucknow,Economic Offences,counterfeiting,0.0
+Maharashtra,Mumbai,Economic Offences,counterfeiting,10.0
+Maharashtra,Nagpur,Economic Offences,counterfeiting,3.0
+Bihar,Patna,Economic Offences,counterfeiting,0.0
+Maharashtra,Pune,Economic Offences,counterfeiting,2.0
+Gujarat,Surat,Economic Offences,counterfeiting,5.0
+Gujarat,Ahmedabad,Economic Offences,forgery_cheating_&_fraud,661.0
+Karnataka,Bengaluru,Economic Offences,forgery_cheating_&_fraud,3249.0
+Tamil Nadu,Chennai,Economic Offences,forgery_cheating_&_fraud,2423.0
+Tamil Nadu,Coimbatore,Economic Offences,forgery_cheating_&_fraud,656.0
+Delhi,Delhi City,Economic Offences,forgery_cheating_&_fraud,4237.0
+Uttar Pradesh,Ghaziabad,Economic Offences,forgery_cheating_&_fraud,519.0
+Telangana,Hyderabad,Economic Offences,forgery_cheating_&_fraud,5679.0
+Madhya Pradesh,Indore,Economic Offences,forgery_cheating_&_fraud,248.0
+Rajasthan,Jaipur,Economic Offences,forgery_cheating_&_fraud,5268.0
+Uttar Pradesh,Kanpur,Economic Offences,forgery_cheating_&_fraud,345.0
+Kerala,Kochi,Economic Offences,forgery_cheating_&_fraud,1025.0
+West Bengal,Kolkata,Economic Offences,forgery_cheating_&_fraud,1586.0
+Kerala,Kozhikode,Economic Offences,forgery_cheating_&_fraud,450.0
+Uttar Pradesh,Lucknow,Economic Offences,forgery_cheating_&_fraud,1250.0
+Maharashtra,Mumbai,Economic Offences,forgery_cheating_&_fraud,6366.0
+Maharashtra,Nagpur,Economic Offences,forgery_cheating_&_fraud,697.0
+Bihar,Patna,Economic Offences,forgery_cheating_&_fraud,1402.0
+Maharashtra,Pune,Economic Offences,forgery_cheating_&_fraud,2030.0
+Gujarat,Surat,Economic Offences,forgery_cheating_&_fraud,562.0

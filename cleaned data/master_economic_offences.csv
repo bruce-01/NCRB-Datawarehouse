@@ -1,0 +1,58 @@
+year,state,city,category,cases,population_lakhs_2011,crime_rate_2024,chargesheeting_rate_2024
+2022,Gujarat,Ahmedabad,Economic Offences,591.0,63.5,12.7,64.3
+2022,Karnataka,Bengaluru,Economic Offences,3245.0,85.0,40.9,49.1
+2022,Tamil Nadu,Chennai,Economic Offences,1038.0,87.0,28.0,42.5
+2022,Tamil Nadu,Coimbatore,Economic Offences,261.0,21.5,30.7,59.8
+2022,Delhi,Delhi City,Economic Offences,5007.0,163.1,27.7,58.1
+2022,Uttar Pradesh,Ghaziabad,Economic Offences,1024.0,23.6,32.9,59.7
+2022,Telangana,Hyderabad,Economic Offences,6015.0,77.5,75.4,30.6
+2022,Madhya Pradesh,Indore,Economic Offences,562.0,21.7,13.6,74.2
+2022,Rajasthan,Jaipur,Economic Offences,5332.0,30.7,178.0,17.4
+2022,Uttar Pradesh,Kanpur,Economic Offences,595.0,29.2,15.9,75.4
+2022,Kerala,Kochi,Economic Offences,445.0,21.2,49.6,65.0
+2022,West Bengal,Kolkata,Economic Offences,2013.0,141.1,12.9,92.4
+2022,Kerala,Kozhikode,Economic Offences,191.0,20.3,23.1,42.3
+2022,Uttar Pradesh,Lucknow,Economic Offences,3702.0,29.0,59.7,50.8
+2022,Maharashtra,Mumbai,Economic Offences,6960.0,184.1,42.2,48.2
+2022,Maharashtra,Nagpur,Economic Offences,550.0,25.0,29.9,31.5
+2022,Bihar,Patna,Economic Offences,1532.0,20.5,68.5,92.2
+2022,Maharashtra,Pune,Economic Offences,1023.0,50.5,42.1,56.1
+2022,Gujarat,Surat,Economic Offences,674.0,45.8,19.2,78.4
+2023,Gujarat,Ahmedabad,Economic Offences,646.0,63.5,12.7,64.3
+2023,Karnataka,Bengaluru,Economic Offences,3858.0,85.0,40.9,49.1
+2023,Tamil Nadu,Chennai,Economic Offences,2155.0,87.0,28.0,42.5
+2023,Tamil Nadu,Coimbatore,Economic Offences,499.0,21.5,30.7,59.8
+2023,Delhi,Delhi City,Economic Offences,4580.0,163.1,27.7,58.1
+2023,Uttar Pradesh,Ghaziabad,Economic Offences,1004.0,23.6,32.9,59.7
+2023,Telangana,Hyderabad,Economic Offences,5728.0,77.5,75.4,30.6
+2023,Madhya Pradesh,Indore,Economic Offences,553.0,21.7,13.6,74.2
+2023,Rajasthan,Jaipur,Economic Offences,5304.0,30.7,178.0,17.4
+2023,Uttar Pradesh,Kanpur,Economic Offences,629.0,29.2,15.9,75.4
+2023,Kerala,Kochi,Economic Offences,869.0,21.2,49.6,65.0
+2023,West Bengal,Kolkata,Economic Offences,1544.0,141.1,12.9,92.4
+2023,Kerala,Kozhikode,Economic Offences,422.0,20.3,23.1,42.3
+2023,Uttar Pradesh,Lucknow,Economic Offences,2446.0,29.0,59.7,50.8
+2023,Maharashtra,Mumbai,Economic Offences,6476.0,184.1,42.2,48.2
+2023,Maharashtra,Nagpur,Economic Offences,697.0,25.0,29.9,31.5
+2023,Bihar,Patna,Economic Offences,1861.0,20.5,68.5,92.2
+2023,Maharashtra,Pune,Economic Offences,1207.0,50.5,42.1,56.1
+2023,Gujarat,Surat,Economic Offences,742.0,45.8,19.2,78.4
+2024,Gujarat,Ahmedabad,Economic Offences,806.0,63.5,12.7,64.3
+2024,Karnataka,Bengaluru,Economic Offences,3477.0,85.0,40.9,49.1
+2024,Tamil Nadu,Chennai,Economic Offences,2436.0,87.0,28.0,42.5
+2024,Tamil Nadu,Coimbatore,Economic Offences,660.0,21.5,30.7,59.8
+2024,Delhi,Delhi City,Economic Offences,4524.0,163.1,27.7,58.1
+2024,Uttar Pradesh,Ghaziabad,Economic Offences,775.0,23.6,32.9,59.7
+2024,Telangana,Hyderabad,Economic Offences,5839.0,77.5,75.4,30.6
+2024,Madhya Pradesh,Indore,Economic Offences,295.0,21.7,13.6,74.2
+2024,Rajasthan,Jaipur,Economic Offences,5471.0,30.7,178.0,17.4
+2024,Uttar Pradesh,Kanpur,Economic Offences,463.0,29.2,15.9,75.4
+2024,Kerala,Kochi,Economic Offences,1050.0,21.2,49.6,65.0
+2024,West Bengal,Kolkata,Economic Offences,1825.0,141.1,12.9,92.4
+2024,Kerala,Kozhikode,Economic Offences,469.0,20.3,23.1,42.3
+2024,Uttar Pradesh,Lucknow,Economic Offences,1732.0,29.0,59.7,50.8
+2024,Maharashtra,Mumbai,Economic Offences,7771.0,184.1,42.2,48.2
+2024,Maharashtra,Nagpur,Economic Offences,748.0,25.0,29.9,31.5
+2024,Bihar,Patna,Economic Offences,1402.0,20.5,68.5,92.2
+2024,Maharashtra,Pune,Economic Offences,2125.0,50.5,42.1,56.1
+2024,Gujarat,Surat,Economic Offences,879.0,45.8,19.2,78.4
