@@ -1,0 +1,10 @@
+pandas
+numpy
+openpyxl
+jupyter
+notebook
+matplotlib
+seaborn
+sqlalchemy
+ipykernel
+xlsxwriter
